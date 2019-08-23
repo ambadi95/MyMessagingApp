@@ -1,0 +1,7 @@
+<root>
+    <item
+        name='com.google.firebase.iid.FirebaseInstanceId com.google.android.gms.tasks.Task&lt;com.google.firebase.iid.InstanceIdResult&gt; getInstanceId()'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+</root>
